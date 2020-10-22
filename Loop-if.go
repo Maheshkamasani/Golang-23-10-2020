@@ -1,0 +1,10 @@
+package main
+import "fmt"
+
+func main() {  
+    var x = 9
+    if x < 10 {
+        //Executes if x < 10
+        fmt.Println("x is less than 10")
+    } 
+}

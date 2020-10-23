@@ -1,2 +1,2 @@
-# Golang-22-10-2020
+# Golang
 Basics
